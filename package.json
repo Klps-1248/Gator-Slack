@@ -1,0 +1,23 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "Frontend Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.5",
+    "react": "^18.0.0",
+    "webpack": "^5.72.0"
+  },
+  "dependencies": {
+    "react-dom": "^18.0.0",
+    "react-router": "^6.3.0"
+  }
+}
