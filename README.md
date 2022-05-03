@@ -9,3 +9,13 @@ The project is implemented using the tech-stack of React, GOlang and RethinkDB. 
 • React
 
 • RethinkDB
+
+# Link to API Documentation:
+```
+https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+```
+
+# Link to Project board:
+```
+https://github.com/Klps-1248/Gator-Slack/projects/1
+```
